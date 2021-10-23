@@ -1,0 +1,1109 @@
+{
+    "Calorias": [
+        {
+            "Alimento": "Bebidas",
+            "Por\u00e7\u00e3o": "Bebidas",
+            "Calorias": "Bebidas"
+        },
+        {
+            "Alimento": "\u00c1gua de coco verde",
+            "Por\u00e7\u00e3o": "200 ml",
+            "Calorias": "41"
+        },
+        {
+            "Alimento": "Caf\u00e9 com a\u00e7\u00facar",
+            "Por\u00e7\u00e3o": "50 ml",
+            "Calorias": "33"
+        },
+        {
+            "Alimento": "Caf\u00e9 sem a\u00e7\u00facar",
+            "Por\u00e7\u00e3o": "40 ml",
+            "Calorias": "3"
+        },
+        {
+            "Alimento": "Caldo de cana",
+            "Por\u00e7\u00e3o": "240 ml",
+            "Calorias": "202"
+        },
+        {
+            "Alimento": "Suco de abacaxi natural",
+            "Por\u00e7\u00e3o": "240 ml",
+            "Calorias": "100"
+        },
+        {
+            "Alimento": "Suco de acerola natural",
+            "Por\u00e7\u00e3o": "240 ml",
+            "Calorias": "36"
+        },
+        {
+            "Alimento": "Suco de ma\u00e7\u00e3 natural",
+            "Por\u00e7\u00e3o": "240 ml",
+            "Calorias": "154"
+        },
+        {
+            "Alimento": "Suco de manga natural",
+            "Por\u00e7\u00e3o": "240 ml",
+            "Calorias": "109"
+        },
+        {
+            "Alimento": "Suco de mel\u00e3o natural",
+            "Por\u00e7\u00e3o": "240 ml",
+            "Calorias": "60"
+        },
+        {
+            "Alimento": "Aguardente",
+            "Por\u00e7\u00e3o": "120 ml",
+            "Calorias": "277"
+        },
+        {
+            "Alimento": "Cerveja",
+            "Por\u00e7\u00e3o": "350 ml",
+            "Calorias": "147"
+        },
+        {
+            "Alimento": "Champanhe",
+            "Por\u00e7\u00e3o": "125 ml",
+            "Calorias": "85"
+        },
+        {
+            "Alimento": "Chope",
+            "Por\u00e7\u00e3o": "300 ml",
+            "Calorias": "180"
+        },
+        {
+            "Alimento": "U\u00edsque",
+            "Por\u00e7\u00e3o": "100 ml",
+            "Calorias": "240"
+        },
+        {
+            "Alimento": "Vinho branco doce",
+            "Por\u00e7\u00e3o": "125 ml",
+            "Calorias": "178"
+        },
+        {
+            "Alimento": "Vinho branco seco",
+            "Por\u00e7\u00e3o": "125 ml",
+            "Calorias": "107"
+        },
+        {
+            "Alimento": "Vinho tinto seco",
+            "Por\u00e7\u00e3o": "125 ml",
+            "Calorias": "107"
+        },
+        {
+            "Alimento": "Vodka",
+            "Por\u00e7\u00e3o": "20 ml",
+            "Calorias": "48"
+        },
+        {
+            "Alimento": "Refrigerante de cola",
+            "Por\u00e7\u00e3o": "350 ml",
+            "Calorias": "137"
+        },
+        {
+            "Alimento": "Refrigerante de Cola light",
+            "Por\u00e7\u00e3o": "350ml",
+            "Calorias": "15"
+        },
+        {
+            "Alimento": "Refrigerante de laranja",
+            "Por\u00e7\u00e3o": "350 ml",
+            "Calorias": "189"
+        },
+        {
+            "Alimento": "Refrigerante de guaran\u00e1",
+            "Por\u00e7\u00e3o": "240 ml",
+            "Calorias": "75"
+        },
+        {
+            "Alimento": "Refrigerante de guaran\u00e1 light",
+            "Por\u00e7\u00e3o": "350 ml",
+            "Calorias": "4"
+        },
+        {
+            "Alimento": "Carnes",
+            "Por\u00e7\u00e3o": "Carnes",
+            "Calorias": "Carnes"
+        },
+        {
+            "Alimento": "Alm\u00f4ndega de carne",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "61"
+        },
+        {
+            "Alimento": "Alm\u00f4ndega de frango",
+            "Por\u00e7\u00e3o": "25g",
+            "Calorias": "54"
+        },
+        {
+            "Alimento": "Bacon frito",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "198"
+        },
+        {
+            "Alimento": "Bisteca de porco",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "337"
+        },
+        {
+            "Alimento": "Costeleta de porco",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "483"
+        },
+        {
+            "Alimento": "Coxa de frango",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "144"
+        },
+        {
+            "Alimento": "Coxa de frango assada c/pele",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "110"
+        },
+        {
+            "Alimento": "Coxa de frango assada s/pele",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "98"
+        },
+        {
+            "Alimento": "Coxa de frango cozida",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "120"
+        },
+        {
+            "Alimento": "Cupim",
+            "Por\u00e7\u00e3o": "150g",
+            "Calorias": "375"
+        },
+        {
+            "Alimento": "Fil\u00e9 de frango",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "101"
+        },
+        {
+            "Alimento": "Fil\u00e9-mignon",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "140"
+        },
+        {
+            "Alimento": "Hamb\u00farguer bovino",
+            "Por\u00e7\u00e3o": "56g",
+            "Calorias": "116"
+        },
+        {
+            "Alimento": "Hamb\u00farguer calabresa",
+            "Por\u00e7\u00e3o": "56g",
+            "Calorias": "149"
+        },
+        {
+            "Alimento": "Hamb\u00farguer de chester",
+            "Por\u00e7\u00e3o": "56g",
+            "Calorias": "105"
+        },
+        {
+            "Alimento": "Hamb\u00farguer de frango",
+            "Por\u00e7\u00e3o": "96g",
+            "Calorias": "179"
+        },
+        {
+            "Alimento": "Peito de frango s/pele",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "100"
+        },
+        {
+            "Alimento": "Pernil de porco assado",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "196"
+        },
+        {
+            "Alimento": "Peru",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "155"
+        },
+        {
+            "Alimento": "Picanha",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "287"
+        },
+        {
+            "Alimento": "Rosbife",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "83"
+        },
+        {
+            "Alimento": "Tender",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "210"
+        },
+        {
+            "Alimento": "Lingui\u00e7a de frango",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "166"
+        },
+        {
+            "Alimento": "Lingui\u00e7a tradicional",
+            "Por\u00e7\u00e3o": "60g",
+            "Calorias": "190"
+        },
+        {
+            "Alimento": "Mortadela",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "41"
+        },
+        {
+            "Alimento": "Salsicha",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "115"
+        },
+        {
+            "Alimento": "Biscoitos",
+            "Por\u00e7\u00e3o": "Biscoitos",
+            "Calorias": "Biscoitos"
+        },
+        {
+            "Alimento": "\u00c1gua e sal",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "32"
+        },
+        {
+            "Alimento": "Champanhe",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "40"
+        },
+        {
+            "Alimento": "Cream Cracker",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "31"
+        },
+        {
+            "Alimento": "Leite",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "24"
+        },
+        {
+            "Alimento": "Maisena",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "20"
+        },
+        {
+            "Alimento": "Recheado chocolate",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "72"
+        },
+        {
+            "Alimento": "Recheado morango",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "73"
+        },
+        {
+            "Alimento": "Wafer chocolate",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "41"
+        },
+        {
+            "Alimento": "Balas",
+            "Por\u00e7\u00e3o": "Balas",
+            "Calorias": "Balas"
+        },
+        {
+            "Alimento": "Caramelo ao leite",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "21"
+        },
+        {
+            "Alimento": "Goma",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "18"
+        },
+        {
+            "Alimento": "Bala Tradicional (estilo Halls)",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "19"
+        },
+        {
+            "Alimento": "Jujuba",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "5"
+        },
+        {
+            "Alimento": "Bolos",
+            "Por\u00e7\u00e3o": "Bolos",
+            "Calorias": "Bolos"
+        },
+        {
+            "Alimento": "Bolo de cenoura",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "135"
+        },
+        {
+            "Alimento": "Bolo de cenoura com cobertura de chocolate",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "371"
+        },
+        {
+            "Alimento": "Bolo de chocolate",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "171"
+        },
+        {
+            "Alimento": "Bolo de fub\u00e1",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "310"
+        },
+        {
+            "Alimento": "Bolo de laranja",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "173"
+        },
+        {
+            "Alimento": "Bolo de coco",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "186"
+        },
+        {
+            "Alimento": "Chocolates e Doces",
+            "Por\u00e7\u00e3o": "Chocolates e Doces",
+            "Calorias": "Chocolates e Doces"
+        },
+        {
+            "Alimento": "Alfajor chocolate",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "190"
+        },
+        {
+            "Alimento": "Chocolate meio amargo",
+            "Por\u00e7\u00e3o": "200g",
+            "Calorias": "1074"
+        },
+        {
+            "Alimento": "Chocolate ao leite",
+            "Por\u00e7\u00e3o": "200g",
+            "Calorias": "1044"
+        },
+        {
+            "Alimento": "Chocolate em p\u00f3",
+            "Por\u00e7\u00e3o": "6g",
+            "Calorias": "22"
+        },
+        {
+            "Alimento": "Chocolate branco",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "170"
+        },
+        {
+            "Alimento": "Trufa",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "89"
+        },
+        {
+            "Alimento": "Arroz doce",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "164"
+        },
+        {
+            "Alimento": "Banana caramelada",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "140"
+        },
+        {
+            "Alimento": "Bananada",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "254"
+        },
+        {
+            "Alimento": "Bomba de chocolate",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "296"
+        },
+        {
+            "Alimento": "Brigadeiro",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "96"
+        },
+        {
+            "Alimento": "Canjica",
+            "Por\u00e7\u00e3o": "200g",
+            "Calorias": "226"
+        },
+        {
+            "Alimento": "Cocada branca",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "55"
+        },
+        {
+            "Alimento": "Creme de amendoim",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "88"
+        },
+        {
+            "Alimento": "Doce de leite",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "158"
+        },
+        {
+            "Alimento": "Gelatina",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "68"
+        },
+        {
+            "Alimento": "Mousse de chocolate",
+            "Por\u00e7\u00e3o": "150g",
+            "Calorias": "333"
+        },
+        {
+            "Alimento": "Pa\u00e7oca",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "114"
+        },
+        {
+            "Alimento": "Pamonha",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "135"
+        },
+        {
+            "Alimento": "Pav\u00ea",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "200"
+        },
+        {
+            "Alimento": "P\u00e9-de-moleque",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "46"
+        },
+        {
+            "Alimento": "Suspiro pequeno",
+            "Por\u00e7\u00e3o": "10g",
+            "Calorias": "37"
+        },
+        {
+            "Alimento": "Mel de abelhas",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "62"
+        },
+        {
+            "Alimento": "Frutas",
+            "Por\u00e7\u00e3o": "Frutas",
+            "Calorias": "Frutas"
+        },
+        {
+            "Alimento": "Abacate",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "177"
+        },
+        {
+            "Alimento": "Abacaxi",
+            "Por\u00e7\u00e3o": "80g",
+            "Calorias": "50"
+        },
+        {
+            "Alimento": "Acerola",
+            "Por\u00e7\u00e3o": "12g",
+            "Calorias": "4"
+        },
+        {
+            "Alimento": "Banana-da-terra",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "117"
+        },
+        {
+            "Alimento": "Banana-ma\u00e7\u00e3",
+            "Por\u00e7\u00e3o": "65g",
+            "Calorias": "72"
+        },
+        {
+            "Alimento": "Banana-nanica",
+            "Por\u00e7\u00e3o": "90g",
+            "Calorias": "87"
+        },
+        {
+            "Alimento": "Banana-prata",
+            "Por\u00e7\u00e3o": "65g",
+            "Calorias": "55"
+        },
+        {
+            "Alimento": "Caju",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "37"
+        },
+        {
+            "Alimento": "Caqui",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "74"
+        },
+        {
+            "Alimento": "Cereja",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "97"
+        },
+        {
+            "Alimento": "Coco ralado",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "50"
+        },
+        {
+            "Alimento": "Figo",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "68"
+        },
+        {
+            "Alimento": "Framboesa",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "12"
+        },
+        {
+            "Alimento": "Goiaba vermelha",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "43"
+        },
+        {
+            "Alimento": "Guaran\u00e1",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "69"
+        },
+        {
+            "Alimento": "Kiwi",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "46"
+        },
+        {
+            "Alimento": "Laranja",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "46"
+        },
+        {
+            "Alimento": "Lim\u00e3o",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "12"
+        },
+        {
+            "Alimento": "Ma\u00e7\u00e3 verde",
+            "Por\u00e7\u00e3o": "130g",
+            "Calorias": "79"
+        },
+        {
+            "Alimento": "Ma\u00e7\u00e3 vermelha",
+            "Por\u00e7\u00e3o": "130g",
+            "Calorias": "85"
+        },
+        {
+            "Alimento": "Mam\u00e3o",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "36"
+        },
+        {
+            "Alimento": "Manga",
+            "Por\u00e7\u00e3o": "350g",
+            "Calorias": "230"
+        },
+        {
+            "Alimento": "Maracuj\u00e1",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "28"
+        },
+        {
+            "Alimento": "Melancia",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "24"
+        },
+        {
+            "Alimento": "Mel\u00e3o",
+            "Por\u00e7\u00e3o": "70g",
+            "Calorias": "19"
+        },
+        {
+            "Alimento": "Morango",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "43"
+        },
+        {
+            "Alimento": "Pera",
+            "Por\u00e7\u00e3o": "110g",
+            "Calorias": "68"
+        },
+        {
+            "Alimento": "P\u00eassego",
+            "Por\u00e7\u00e3o": "150g",
+            "Calorias": "63"
+        },
+        {
+            "Alimento": "Tangerina",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "50"
+        },
+        {
+            "Alimento": "Uva",
+            "Por\u00e7\u00e3o": "150g",
+            "Calorias": "118"
+        },
+        {
+            "Alimento": "Leite",
+            "Por\u00e7\u00e3o": "Leite",
+            "Calorias": "Leite"
+        },
+        {
+            "Alimento": "Leite condensado",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "65"
+        },
+        {
+            "Alimento": "Leite de b\u00fafala",
+            "Por\u00e7\u00e3o": "250ml",
+            "Calorias": "253"
+        },
+        {
+            "Alimento": "Leite de cabra",
+            "Por\u00e7\u00e3o": "250ml",
+            "Calorias": "220"
+        },
+        {
+            "Alimento": "Leite de soja",
+            "Por\u00e7\u00e3o": "250ml",
+            "Calorias": "120"
+        },
+        {
+            "Alimento": "Leite integral",
+            "Por\u00e7\u00e3o": "250ml",
+            "Calorias": "150"
+        },
+        {
+            "Alimento": "Leite desnatado",
+            "Por\u00e7\u00e3o": "250ml",
+            "Calorias": "90"
+        },
+        {
+            "Alimento": "Queijos",
+            "Por\u00e7\u00e3o": "Queijos",
+            "Calorias": "Queijos"
+        },
+        {
+            "Alimento": "Catupiry",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "49"
+        },
+        {
+            "Alimento": "Cheddar",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "107"
+        },
+        {
+            "Alimento": "Cottage",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "55"
+        },
+        {
+            "Alimento": "Cream cheese",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "70"
+        },
+        {
+            "Alimento": "Gorgonzola",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "119"
+        },
+        {
+            "Alimento": "Mussarela",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "47"
+        },
+        {
+            "Alimento": "Parmes\u00e3o",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "121"
+        },
+        {
+            "Alimento": "Petit-suisse",
+            "Por\u00e7\u00e3o": "25g",
+            "Calorias": "45"
+        },
+        {
+            "Alimento": "Prato",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "53"
+        },
+        {
+            "Alimento": "Provolone",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "51"
+        },
+        {
+            "Alimento": "Queijo minas",
+            "Por\u00e7\u00e3o": "25g",
+            "Calorias": "61"
+        },
+        {
+            "Alimento": "Ricota",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "54"
+        },
+        {
+            "Alimento": "Requeij\u00e3o",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "54"
+        },
+        {
+            "Alimento": "Roquefort",
+            "Por\u00e7\u00e3o": "25g",
+            "Calorias": "100"
+        },
+        {
+            "Alimento": "Su\u00ed\u00e7o",
+            "Por\u00e7\u00e3o": "30g",
+            "Calorias": "121"
+        },
+        {
+            "Alimento": "Tofu",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "68"
+        },
+        {
+            "Alimento": "Ovos",
+            "Por\u00e7\u00e3o": "Ovos",
+            "Calorias": "Ovos"
+        },
+        {
+            "Alimento": "Ovo de codorna",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "33"
+        },
+        {
+            "Alimento": "Ovo de galinha cozido",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "78"
+        },
+        {
+            "Alimento": "Ovo de galinha frito",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "108"
+        },
+        {
+            "Alimento": "Legumes, gr\u00e3os e verduras",
+            "Por\u00e7\u00e3o": "Legumes, gr\u00e3os e verduras",
+            "Calorias": "Legumes, gr\u00e3os e verduras"
+        },
+        {
+            "Alimento": "Ab\u00f3bora",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "40"
+        },
+        {
+            "Alimento": "Agri\u00e3o",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "28"
+        },
+        {
+            "Alimento": "Aipim frito",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "353"
+        },
+        {
+            "Alimento": "Alface",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "4"
+        },
+        {
+            "Alimento": "Amendoim",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "549"
+        },
+        {
+            "Alimento": "Arroz branco cozido",
+            "Por\u00e7\u00e3o": "25g",
+            "Calorias": "41"
+        },
+        {
+            "Alimento": "Arroz integral cozido",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "22"
+        },
+        {
+            "Alimento": "Aspargo cozido",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "4"
+        },
+        {
+            "Alimento": "Azeitona preta",
+            "Por\u00e7\u00e3o": "3g",
+            "Calorias": "4"
+        },
+        {
+            "Alimento": "Azeitona verde",
+            "Por\u00e7\u00e3o": "4g",
+            "Calorias": "5"
+        },
+        {
+            "Alimento": "Batata-doce assada",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "143"
+        },
+        {
+            "Alimento": "Batata-doce frita",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "383"
+        },
+        {
+            "Alimento": "Batata palha",
+            "Por\u00e7\u00e3o": "70g",
+            "Calorias": "220"
+        },
+        {
+            "Alimento": "Berinjela",
+            "Por\u00e7\u00e3o": "250g",
+            "Calorias": "50"
+        },
+        {
+            "Alimento": "Beterraba",
+            "Por\u00e7\u00e3o": "125g",
+            "Calorias": "55"
+        },
+        {
+            "Alimento": "Br\u00f3colis",
+            "Por\u00e7\u00e3o": "80g",
+            "Calorias": "23"
+        },
+        {
+            "Alimento": "Cebola cozida",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "54"
+        },
+        {
+            "Alimento": "Cenoura",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "45"
+        },
+        {
+            "Alimento": "Couve-flor",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "41"
+        },
+        {
+            "Alimento": "Ervilha",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "19"
+        },
+        {
+            "Alimento": "Escarola",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "7"
+        },
+        {
+            "Alimento": "Espinafre",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "38"
+        },
+        {
+            "Alimento": "Feij\u00e3o branco cozido",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "24"
+        },
+        {
+            "Alimento": "Feij\u00e3o cozido e desidratado",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "78"
+        },
+        {
+            "Alimento": "Feij\u00e3o preto cozido",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "14"
+        },
+        {
+            "Alimento": "Palmito cru",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "26"
+        },
+        {
+            "Alimento": "Palmito em conserva",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "22"
+        },
+        {
+            "Alimento": "Pepino cru com casca",
+            "Por\u00e7\u00e3o": "150g",
+            "Calorias": "21"
+        },
+        {
+            "Alimento": "Pepino cru sem casca",
+            "Por\u00e7\u00e3o": "150g",
+            "Calorias": "5"
+        },
+        {
+            "Alimento": "Repolho",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "33"
+        },
+        {
+            "Alimento": "Tomate",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "20"
+        },
+        {
+            "Alimento": "Vagem cozida",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "52"
+        },
+        {
+            "Alimento": "P\u00e3es",
+            "Por\u00e7\u00e3o": "P\u00e3es",
+            "Calorias": "P\u00e3es"
+        },
+        {
+            "Alimento": "Baguete",
+            "Por\u00e7\u00e3o": "1 fatia",
+            "Calorias": "70"
+        },
+        {
+            "Alimento": "Baguete com gergelim",
+            "Por\u00e7\u00e3o": "1 fatia",
+            "Calorias": "82"
+        },
+        {
+            "Alimento": "Bisnaguinha",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "45"
+        },
+        {
+            "Alimento": "Brioche",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "210"
+        },
+        {
+            "Alimento": "Broa de milho",
+            "Por\u00e7\u00e3o": "1 unidade",
+            "Calorias": "150"
+        },
+        {
+            "Alimento": "Croissant",
+            "Por\u00e7\u00e3o": "60g",
+            "Calorias": "247"
+        },
+        {
+            "Alimento": "P\u00e3o de centeio integral",
+            "Por\u00e7\u00e3o": "1 fatia",
+            "Calorias": "58"
+        },
+        {
+            "Alimento": "P\u00e3o franc\u00eas",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "135"
+        },
+        {
+            "Alimento": "P\u00e3o de forma",
+            "Por\u00e7\u00e3o": "1 fatia",
+            "Calorias": "74"
+        },
+        {
+            "Alimento": "P\u00e3o de hamb\u00farguer",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "278"
+        },
+        {
+            "Alimento": "P\u00e3o de hot dog",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "286"
+        },
+        {
+            "Alimento": "P\u00e3o de mel c/ cobertura de chocolate",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "91"
+        },
+        {
+            "Alimento": "P\u00e3o de queijo",
+            "Por\u00e7\u00e3o": "20g",
+            "Calorias": "68"
+        },
+        {
+            "Alimento": "P\u00e3o integral de trigo",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "261"
+        },
+        {
+            "Alimento": "P\u00e3o s\u00edrio integral",
+            "Por\u00e7\u00e3o": "50g",
+            "Calorias": "147"
+        },
+        {
+            "Alimento": "Massas",
+            "Por\u00e7\u00e3o": "Massas",
+            "Calorias": "Massas"
+        },
+        {
+            "Alimento": "Canelone",
+            "Por\u00e7\u00e3o": "150g",
+            "Calorias": "552"
+        },
+        {
+            "Alimento": "Capelete",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "278"
+        },
+        {
+            "Alimento": "Espaguete ao sugo",
+            "Por\u00e7\u00e3o": "160g",
+            "Calorias": "163"
+        },
+        {
+            "Alimento": "Lasanha",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "139"
+        },
+        {
+            "Alimento": "Macarr\u00e3o cozido",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "154"
+        },
+        {
+            "Alimento": "Macarronada",
+            "Por\u00e7\u00e3o": "100g",
+            "Calorias": "289"
+        },
+        {
+            "Alimento": "Nhoque s/ molho",
+            "Por\u00e7\u00e3o": "160g",
+            "Calorias": "227"
+        },
+        {
+            "Alimento": "Pizza de calabresa",
+            "Por\u00e7\u00e3o": "140g",
+            "Calorias": "412"
+        },
+        {
+            "Alimento": "Pizza de mussarela",
+            "Por\u00e7\u00e3o": "140g",
+            "Calorias": "304"
+        },
+        {
+            "Alimento": "Pizza portuguesa",
+            "Por\u00e7\u00e3o": "140g",
+            "Calorias": "396"
+        },
+        {
+            "Alimento": "Pizza quatro queijos",
+            "Por\u00e7\u00e3o": "140g",
+            "Calorias": "432"
+        },
+        {
+            "Alimento": "Cereais",
+            "Por\u00e7\u00e3o": "Cereais",
+            "Calorias": "Cereais"
+        },
+        {
+            "Alimento": "Aveia em flocos",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "50"
+        },
+        {
+            "Alimento": "Granola com castanhas",
+            "Por\u00e7\u00e3o": "60g",
+            "Calorias": "300"
+        },
+        {
+            "Alimento": "Gr\u00e3o de aveia cru",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "48"
+        },
+        {
+            "Alimento": "Germe de trigo",
+            "Por\u00e7\u00e3o": "15g",
+            "Calorias": "55"
+        }
+    ]
+}
